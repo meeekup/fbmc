@@ -1,2 +1,2 @@
-# fmc
-ffmpeg media converter
+# fbmc
+ffmpeg bash media converter
